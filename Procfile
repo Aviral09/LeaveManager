@@ -1,1 +1,1 @@
-web: gunicorn leavemanager.leavemanager.wsgi
+web: gunicorn --chdir leavemanager leavemanager.wsgi
