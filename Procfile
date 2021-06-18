@@ -1,1 +1,1 @@
-web: gunicorn leavemanagerweb.wsgi
+web: gunicorn leavemanager.leavemanager.wsgi
